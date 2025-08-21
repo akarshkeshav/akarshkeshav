@@ -7,4 +7,4 @@ I'm a Master of Computer Applications student building upon a B.Sc. in Physics, 
 - 🔭 I’m currently building a **Command-Line Contact Management System**.
 - 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/akarshkeshav/)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=[https://github.com/akarshkeshav]&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=akarshkeshav&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
